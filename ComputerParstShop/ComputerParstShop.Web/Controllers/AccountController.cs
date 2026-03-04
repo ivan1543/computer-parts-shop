@@ -1,5 +1,5 @@
 ﻿using ComputerParstShop.Web.Models;
-using BestStoreMVC.Services;
+using ComputerParstShop.Web.Services;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;

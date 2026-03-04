@@ -1,7 +1,7 @@
 ﻿using ComputerParstShop.Web.Models;
 using System.Text.Json;
 
-namespace ComputerParstShop.Web.Service
+namespace ComputerParstShop.Web.Services
 {
     public class CartHelper
     {

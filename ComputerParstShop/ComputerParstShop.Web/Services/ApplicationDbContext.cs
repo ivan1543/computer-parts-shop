@@ -2,7 +2,7 @@
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
-namespace ComputerParstShop.Web.Service
+namespace ComputerParstShop.Web.Services
 {
     public class ApplicationDbContext : IdentityDbContext<ApplicationUser>
     {
